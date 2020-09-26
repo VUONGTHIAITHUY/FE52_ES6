@@ -1,0 +1,2 @@
+# FE52_ES6
+BÀI TẬP ES6
